@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+<title>Pizza</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+body {font-family: "Times New Roman", Georgia, Serif;}
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+}
+</style>
+<body>
+
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-padding w3-card-2" style="letter-spacing:4px;">
+    <a href="#home" class="w3-bar-item w3-button"></a>
+  
+    <div class="w3-right w3-hide-small">
+    
+    </div>
+  </div>
+</div>
+
+
+<header class="w3-display-container w3-content w3-wide" style="max-width:1600px;min-width:500px">
+  <img class="w3-image" src="http://ptownpizza.com/images/Food/Pizza/Pizza01.jpg" alt="Hamburger Catering" width="1400" height="600">
+  <div class="w3-display-bottomleft w3-padding-large w3-opacity">
+    <h1 class="w3-xxlarge">Pizza</h1>
+  </div>
+</header>
+
+<div class="w3-content" style="max-width:1100px">
+
+ 
+  <div class="w3-row w3-padding-64" id="about">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+     <img src="http://a.abcnews.com/images/US/ht_bbq_chicken_pizza_jef_120131_wmain.jpg" class="w3-round w3-image " width="600" height="750">
+    </div>
+
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center">BARBECUED CHICKEN PIZZA</h1><br>
+      <h5 class="w3-center">Ingredients:</h5>
+      <p class="w3-large"></p>
+
+<h6>2 boneless skinless chicken breast halves (6 ounces each)</h6>
+<h6>1 cup barbecue sauce, divided</h6>
+<h6>1/4 teaspoon salt</h6>
+<h6>1 tube (13.8 ounces) refrigerated pizza crust</h6>
+<h6>2 teaspoons olive oil</h6>
+<h6>1 small red onion, halved and thinly sliced</h6>
+<h6>1/4 cup minced fresh cilantro</h6>
+</p>
+</ul>
+      <p class="w3-large w3-hide-medium">
+     <h5 class="w3-center">Directions:</h5>  	
+
+<h6>Sprinkle chicken with pepper; place on an oiled grill rack over medium heat. Grill, covered, until a
+thermometer reads 165°, 5-7 minutes per side, basting frequently with 1/2 cup barbecue sauce during the
+last 4 minutes. Cool slightly. Cut into cubes.
+Divide dough in half. On a well-greased large sheet of heavy-duty foil, press each portion of dough into a
+10x8-in. rectangle; brush lightly with oil. Invert dough onto grill rack; peel off foil. Grill, covered, over medium
+heat until bottom is lightly browned, 1-2 minutes.
+Remove from grill. Spread grilled sides with remaining barbecue sauce. Top with cheese, chicken and onion.
+Grill, covered, until bottom is lightly browned and cheese is melted, 2-3 minutes. Sprinkle with
+cilantro. Yield: 2 pizzas (4 pieces each).</h6>
+
+</p>
+    </div>
+  </div>
+  
+  <hr>
+
+   <h1 class="w3-center">BRUSCHETTA PIZZA</h1><br>
+  <div class="w3-row w3-padding-64" id="menu">
+    <div class="w3-col l6 w3-padding-large">
+     <h5 class="w3-center">Ingredients:</h5>
+      <p class="w3-large"></p>
+
+<h6>1/2 pound reduced-fat bulk pork sausage</h6>
+<h6>1 prebaked 12-inch pizza crust </h6>
+<h6>1 package (6 ounces) sliced turkey pepperoni</h6>
+<h6> 2 cups (8 ounces) shredded part-skim mozzarella cheese</h6>
+<h6> 1-1/2 cups chopped plum tomatoes</h6>
+<h6> 1/2 cup fresh basil leaves, thinly sliced</h6>
+<h6> 1 tablespoon olive oil</h6>
+<h6> 2 garlic cloves, minced</h6>
+<h6> 1/2 teaspoon minced fresh thyme or 1/8 teaspoon dried thyme</h6>
+<h6> 1/2 teaspoon balsamic vinegar</h6>
+<h6> 1/4 teaspoon salt</h6>
+<h6> 1/8 teaspoon pepper</h6>
+</p>
+<h5 class="w3-center">Directions:</h5>  	
+
+<h6>Prepare pizza dough according to package directions. With floured hands, press dough onto a greased 12-in.
+pizza pan.
+Spread Alfredo sauce over dough to within 1 in. of edges. Thinly slice or chop tomatoes; top pizza with
+spinach, tomatoes and cheese.
+Bake at 450° for 10-15 minutes or until cheese is melted and crust is golden brown. 
+Yield: 4-6 servings.</h6>
+
+</p>
+    </div>
+    
+    <div class="w3-col l6 w3-padding-large">
+      <img src="https://www.dairygoodness.ca/var/ezflow_site/storage/images/dairy-goodness/home/recipes/bruschetta-pizza/8182134-10-eng-CA/bruschetta-pizza.jpg" class="w3-round w3-image " width="500" height="750">
+
+    </div>
+  </div>
+
+  <hr>
+
+<div class="w3-row w3-padding-64" id="about">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+     <img src="http://lifemadesimplebakes.com/wp-content/uploads/2016/08/Pesto-Chicken-Pizza-1.jpg" class="w3-round w3-image " width="600" height="750">
+    </div>
+
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center">PESTO CHICKEN PIZZA</h1><br>
+      <h5 class="w3-center">Ingredients:</h5>
+      <p class="w3-large"></p>
+
+<h6>2 teaspoons active dry yeast</h6>
+<h6> 2-3/4 cups bread flour</h6>
+<h6>1 tablespoon plus 2 teaspoons olive oil, divided</h6>
+<h6> 1 tablespoon sugar</h6>
+<h6>1-1/2 teaspoons salt, divided</h6>
+<h6>1/2 pound boneless skinless chicken breasts, cut into 1/2-inch pieces</h6>
+<h6>1 small onion, halved and thinly sliced</h6>
+<h6> 1/2 each small green, sweet red and yellow peppers, julienned</h6>
+<h6>1/2 cup sliced fresh mushrooms</h6>
+<h6>3 tablespoons prepared pesto</h6>
+<h6>1-1/2 cups (6 ounces) shredded part-skim mozzarella cheese</h6>
+<h6>1/4 teaspoon pepper </h6>
+<h6> 1 cup warm water (110° to 115°)</h6>
+
+</ul>
+      <p class="w3-large w3-hide-medium">
+     <h5 class="w3-center">Directions:</h5>   
+
+<h6>In a large bowl, dissolve yeast in warm water. Beat in 1 cup flour, 1 tablespoon oil, sugar and 1 teaspoon salt.
+Add the remaining flour; beat until combined.
+Turn onto a lightly floured surface; knead until smooth and elastic, about 6-8 minutes. Place in a bowl coated
+with cooking spray, turning once to coat top. Cover and let rise in a warm place until doubled, about 1 hour.
+In a large nonstick skillet over medium heat, cook the chicken, onion, peppers and mushrooms in remaining
+oil until chicken is no longer pink and vegetables are tender. Remove from the heat; set aside.
+Punch dough down; roll into a 15-in. circle. Transfer to a 14-in. pizza pan. Build up edges slightly. Spread with
+pesto. Top with chicken mixture and cheese. Sprinkle with pepper and remaining salt.
+Bake at 400° for 18-20 minutes or until crust and cheese are lightly browned. 
+Freeze option: Securely wrap and freeze unbaked pizza. To use, unwrap pizza; bake as directed, increasing
+time as necessary. 
+Yield: 8 slices.</h6>
+
+    </div>
+  </div>
+  
+  <hr>
+     <h1 class="w3-center">SPINACH PIZZA</h1><br>
+  <div class="w3-row w3-padding-64" id="menu">
+    <div class="w3-col l6 w3-padding-large">
+     <h5 class="w3-center">Ingredients:</h5>
+      <p class="w3-large"></p>
+
+<h6>1 package (6-1/2 ounces) pizza crust mix</h6>
+<h6>1/2 cup Alfredo sauce</h6>
+<h6>2 medium tomatoes</h6>
+<h6>4 cups chopped fresh spinach</h6>
+<h6>2 cups (8 ounces) shredded Italian cheese blend</h6>
+</p>
+<h5 class="w3-center">Directions:</h5>    
+
+<h6>Heat the oven to 375 degrees F. Line with parchment, grease, and flour an 8-inch/22 cm springform pan. Melt the chocolate gently over a water bath, and then beat in the butter a piece at a time until smooth. In a separate bowl, beat the yolks with 1/2-cup sugar until thick, pale, and ribbony. In yet another bowl, beat the whites to soft peaks. Scatter over the remaining 1/2-cup sugar and beat to a stiff meringue. Slowly whisk the chocolate mixture into the yolk mixture. Stir in a spoonful of beaten egg whites, then pour the chocolate mixture over the egg whites and gently fold together with a spatula. Pour the batter into the prepared pan and bake 50 minutes. Remove from the oven. Run a knife around the outside edge, then let sit until cool. It will sink down and the top will crack, appealingly. Serve with a drift of slightly sweetened whipped cream, flavored with vanilla, rum, or orange flower water. </h6>
+
+</p>
+    </div>
+    
+    <div class="w3-col l6 w3-padding-large">
+      <img src="http://www.cookingclassy.com/wp-content/uploads/2013/09/spinach-artichoke-pizza3-alt-color+srgb.jpg" width="500" height="750">
+
+    </div>
+  </div>
+
+  <hr>
+
+
+
+
+<footer title="Desserts" </a></p>
+</footer>
+
+</body>
+</html>
