@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<title>Desserts</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+body {font-family: "Times New Roman", Georgia, Serif;}
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+}
+</style>
+<body>
+
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-padding w3-card-2" style="letter-spacing:4px;">
+    <a href="#home" class="w3-bar-item w3-button"></a>
+  
+    <div class="w3-right w3-hide-small">
+    
+    </div>
+  </div>
+</div>
+
+
+<header class="w3-display-container w3-content w3-wide" style="max-width:1600px;min-width:500px">
+  <img class="w3-image" src="http://extraordinarydesserts.com/wp-content/uploads/2014/12/ED-tarts-pies-073.jpg" alt="Hamburger Catering" width="1400" height="600">
+  <div class="w3-display-bottomleft w3-padding-large w3-opacity">
+    <h1 class="w3-xxlarge">Desserts</h1>
+  </div>
+</header>
+
+<div class="w3-content" style="max-width:1100px">
+
+ 
+  <div class="w3-row w3-padding-64" id="about">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+     <img src="http://www.recipegirl.com/wp-content/uploads/2007/11/Flourless-Chocolate-Cookies-2.jpg" class="w3-round w3-image " width="600" height="750">
+    </div>
+
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center">Chewy Gooey Flourless Chocolate Cookies</h1><br>
+      <h5 class="w3-center">Ingredients:</h5>
+      <p class="w3-large"></p>
+
+<h6>3 cups powdered sugar</h6>
+<h6>2/3 cup unsweetened Dutch-process cocoa powder</h6>
+<h6>1/4 teaspoon salt</h6>
+<h6>2 to 4 large egg whites, at room temperature</h6>
+<h6>1 Tablespoon pure vanilla extract</h6>
+<h6>1 1/2 cups bittersweet chocolate chips</h6>
+</p>
+</ul>
+      <p class="w3-large w3-hide-medium">
+     <h5 class="w3-center">Directions:</h5>  	
+
+<h6>1. Preheat oven to 350 degrees F. Line two rimmed baking sheets with parchment paper (or silpat mats). If you use parchment paper, give it a light swoosh of nonstick spray.</h6>
+
+<h6>2. In a large bowl, whisk together powdered sugar with cocoa powder and salt. Whisk in egg whites (start w/ just two) and vanilla extract and beat just until the batter is moistened. You're looking for a brownie-like, thick and fudgy batter consistency. If it seems too thick, add another egg white-- then a 4th one if it still seems too thick. Gently stir in chocolate chips.</h6>
+
+<h6>3. Spoon batter onto the prepared baking sheets in 12 evenly spaced mounds per cookie sheet. I like to use a spring-release cookie scoop. Bake about 14 minutes, until the tops are glossy and lightly cracked. Slide the parchment paper (with the cookies) onto wire racks. Let cookies cool completely, and store in an airtight container for up to 3 days.</h6>
+</p>
+    </div>
+  </div>
+  
+  <hr>
+
+   <h1 class="w3-center">Ice Cream Sandwich Cake</h1><br>
+  <div class="w3-row w3-padding-64" id="menu">
+    <div class="w3-col l6 w3-padding-large">
+     <h5 class="w3-center">Ingredients:</h5>
+      <p class="w3-large"></p>
+
+<h6>24 vanilla ice cream sandwiches, unwrapped</h6>
+<h6> 2 (8 ounce) containers whipped topping </h6>
+<h6> 1 (12 ounce) jar hot fudge ice cream topping, warmed</h6>
+<h6> 1/4 cup chopped pecans, or to taste</h6>
+</p>
+<h5 class="w3-center">Directions:</h5>  	
+
+<h6>Arrange a layer of ice cream sandwiches in the bottom of a 9x13-inch dish; top with a layer of whipped topping, hot fudge topping, and caramel topping. Repeat layering with remaining ice cream sandwiches, whipped topping, hot fudge topping, and caramel topping, ending with a top layer of whipped topping. Sprinkle with pecans. Cover dish with aluminum foil and freeze until set, at least 30 minutes.</h6>
+
+</p>
+    </div>
+    
+    <div class="w3-col l6 w3-padding-large">
+      <img src="http://images.media-allrecipes.com/userphotos/720x405/1031205.jpg" class="w3-round w3-image " width="500" height="750">
+
+    </div>
+  </div>
+
+  <hr>
+
+
+
+
+
+<footer title="Desserts" </a></p>
+</footer>
+
+</body>
+</html>

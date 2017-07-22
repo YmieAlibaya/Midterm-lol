@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<title>Salad</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+body {font-family: "Times New Roman", Georgia, Serif;}
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+}
+</style>
+<body>
+
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-padding w3-card-2" style="letter-spacing:4px;">
+    <a href="#home" class="w3-bar-item w3-button"></a>
+  
+    <div class="w3-right w3-hide-small">
+    
+    </div>
+  </div>
+</div>
+
+
+<header class="w3-display-container w3-content w3-wide" style="max-width:1600px;min-width:500px">
+  <img class="w3-image" src="http://www.laaloosh.com/wp-content/uploads/2014/07/greek-salad.jpg" alt="Hamburger Catering" width="1400" height="600">
+  <div class="w3-display-bottomleft w3-padding-large w3-opacity">
+    <h1 class="w3-xxlarge">Salad</h1>
+  </div>
+</header>
+
+<div class="w3-content" style="max-width:1100px">
+
+ 
+  <div class="w3-row w3-padding-64" id="about">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+     <img src="https://www.mealgarden.com/photo/7627/" class="w3-round w3-image " width="600" height="750">
+    </div>
+
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center">Boston lettuce salad with herbs and toasted almond</h1><br>
+      <h5 class="w3-center">Ingredients:</h5>
+      <p class="w3-large"></p>
+
+<h6>1/4cup sliced almonds
+<h6>1large head Boston or Bibb lettuce, leaves torn (6 cups)</h6>
+<h6>1cup fresh parsley leaves</h6>
+<h6>1cup fresh cilantro leaves</h6>
+<h6>10chives, cut into 1-inch lengths</h6>
+<h6>4 to 5tablespoons Lemon and Shallot Vinaigrette
+or bottled Italian vinaigrette</h6>
+</p>
+</ul>
+      <p class="w3-large w3-hide-medium">
+     <h5 class="w3-center">Directions:</h5>  	
+
+<h6>1. Heat oven to 400° F. Spread the almonds on a rimmed baking sheet and toast, tossing
+occasionally, until golden, 5 to 6 minutes.</h6>
+
+<h6>2. In a large bowl, toss the lettuce, parsley, cilantro, chives, and almonds with the
+vinaigrette.</h6>
+
+
+</p>
+    </div>
+  </div>
+  
+  <hr>
+
+   <h1 class="w3-center">Watercress Salad with beef and feta</h1><br>
+  <div class="w3-row w3-padding-64" id="menu">
+    <div class="w3-col l6 w3-padding-large">
+     <h5 class="w3-center">Ingredients:</h5>
+      <p class="w3-large"></p>
+
+<h6>2bunches watercress, thick stems removed (6 cups)</h6>
+<h6> 115-ounce can whole beets, drained and thinly sliced </h6>
+<h6>4 to 5tablespoons Lemon and Shallot Vinaigrette
+or bottled Italian vinaigrette</h6>
+<h6>1/2cup crumbled Feta (about 2 ounces)</h6>
+</p>
+<h5 class="w3-center">Directions:</h5>  	
+
+<h6>1. In a large bowl, toss the watercress and beets with the vinaigrette.</h6>
+<h6>2. Sprinkle with the Feta.</h6>
+</p>
+    </div>
+    
+    <div class="w3-col l6 w3-padding-large">
+      <img src="http://goodtoknow.media.ipcdigital.co.uk/111/00000f66b/7b6d/Watercress-avocado-bacon-and-blue-cheese-salad.jpg" class="w3-round w3-image " width="500" height="750">
+
+    </div>
+  </div>
+
+  <hr>
+
+<div class="w3-row w3-padding-64" id="about">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+     <img src="http://healthylivinginthecity.com/wp-content/uploads/2013/02/IMG_4527.jpg" class="w3-round w3-image " width="600" height="750">
+    </div>
+
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center">Romain salad with tomatoes and bacon</h1><br>
+      <h5 class="w3-center">Ingredients:</h5>
+      <p class="w3-large"></p>
+
+<h6>4slices bacon</h6>
+<h6> 1head romaine lettuce, cut into strips (6 cups)</h6>
+<h6> 1cup grape tomatoes, halved</h6>
+<h6> 4scallions, sliced</h6>
+<h6> 4 to 6tablespoons Creamy Parmesan Dressing
+or bottled Caesar dressing</h6>
+
+</p>
+</ul>
+      <p class="w3-large w3-hide-medium">
+     <h5 class="w3-center">Directions:</h5>   
+
+<h6>1. In a skillet, cook the bacon over medium heat until crisp, 6 to 8 minutes. Transfer to a paper
+towel-lined plate. Break into pieces when cool.</h6>
+<h6>2. In a large bowl, toss the lettuce, tomatoes, scallions, and bacon with the dressing.</h6>
+    </div>
+  </div>
+  
+  <hr>
+     <h1 class="w3-center">Mesclun salad with chickpeas and dried cherries</h1><br>
+  <div class="w3-row w3-padding-64" id="menu">
+    <div class="w3-col l6 w3-padding-large">
+     <h5 class="w3-center">Ingredients:</h5>
+      <p class="w3-large"></p>
+
+<h6>6 ounces mesclun (6 cups)</h6>
+<h6>2carrots, halved lengthwise and thinly sliced on the bias</h6>
+<h6>115-ounce can chickpeas, rinsed</h6>
+<h6>1/2cup dried cherries</h6>
+<h6>1/4cup fresh dill sprigs</h6>
+<h6>4 to 5tablespoons Balsamic-Dijon Vinaigrette
+or bottled balsamic vinaigrette</h6>
+</p>
+<h5 class="w3-center">Directions:</h5>    
+
+<h6>1. In a large bowl, toss the mesclun, carrots, chickpeas, cherries, and dill with the
+vinaigrette. </h6>
+
+</p>
+    </div>
+    
+    <div class="w3-col l6 w3-padding-large">
+      <img src="http://2.bp.blogspot.com/-RKtcbwvXnfI/T0aH2wZAjAI/AAAAAAAAAnQ/a3pRqhyKhY4/s1600/spring+salad.JPG" class="w3-round w3-image " width="500" height="750">
+
+    </div>
+  </div>
+
+  <hr>
+
+
+
+
+<footer title="Desserts" </a></p>
+</footer>
+
+</body>
+</html>

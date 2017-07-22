@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+<title>Pasta</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+body {font-family: "Times New Roman", Georgia, Serif;}
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+}
+</style>
+<body>
+
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-padding w3-card-2" style="letter-spacing:4px;">
+    <a href="#home" class="w3-bar-item w3-button"></a>
+  
+    <div class="w3-right w3-hide-small">
+    
+    </div>
+  </div>
+</div>
+
+
+<header class="w3-display-container w3-content w3-wide" style="max-width:1600px;min-width:500px">
+  <img class="w3-image" src="http://i.ndtvimg.com/i/2015-12/pasta_625x350_41450937320.jpg" alt="Hamburger Catering" width="1400" height="600">
+  <div class="w3-display-bottomleft w3-padding-large w3-opacity">
+    <h1 class="w3-xxlarge">Pasta</h1>
+  </div>
+</header>
+
+<div class="w3-content" style="max-width:1100px">
+
+ 
+  <div class="w3-row w3-padding-64" id="about">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+     <img src="http://www.seriouseats.com/recipes/assets_c/2016/08/20160827-cherry-tomato-pasta-13-thumb-1500xauto-433876.jpg" class="w3-round w3-image " width="600" height="750">
+    </div>
+
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center">PASTA WITH BLISTERED CHERRY TOMATO SAUCE</h1><br>
+      <h5 class="w3-center">Ingredients:</h5>
+      <p class="w3-large"></p>
+
+<h6>1 pound (450g) dry pasta</h6>
+<h6>Kosher salt</h6>
+<h6>4 medium cloves garlic, thinly sliced</h6>
+<h6>6 tablespoons (90ml) extra-virgin olive oil, divided</h6>
+<h6>1 1/2 pounds cherry tomatoes (about 2 pints; 750g)</h6>
+<h6>1 ounce fresh basil leaves, roughly chopped (about 1 cup; 30g)</h6>
+<h6>Freshly ground black pepper
+Parmesan cheese, for serving</h6>
+</p>
+</ul>
+      <p class="w3-large w3-hide-medium">
+     <h5 class="w3-center">Directions:</h5>  	
+
+<h6>1. Place pasta in a large skillet or sauté pan and cover with water and a big pinch of salt. Bring
+to a boil over high heat, stirring occasionally. Boil until just shy of al dente, about 1 minute
+less than the package instructions recommend.</h6>
+
+<h6>2. Meanwhile, heat garlic and 4 tablespoons (60ml) olive oil in a 12-inch skillet over medium
+heat, stirring frequently, until garlic is softened but not browned, about 3 minutes. Add tomatoes
+and cook, stirring, until tomatoes begin to burst. You can help them along by pressing on them
+with the back of a wooden spoon as they soften.</h6>
+
+<h6>4. When pasta is cooked, drain, reserving 1 cup of pasta water. Add pasta to sauce and
+increase heat to medium-high. Cook, stirring and tossing constantly and adding reserved pasta
+water as necessary to adjust consistency to a nice, creamy flow. Remove from heat, stir in
+remaining 2 tablespoons (30ml) olive oil, and grate in a generous shower of Parmesan cheese.
+Serve immediately, passing extra Parmesan at the table.</h6>
+<h6></h6>
+</p>
+    </div>
+  </div>
+  
+  <hr>
+
+   <h1 class="w3-center">PASTA WITH BUTTERNUT SQUASH AND SAGE BROWN BUTTER</h1><br>
+  <div class="w3-row w3-padding-64" id="menu">
+    <div class="w3-col l6 w3-padding-large">
+     <h5 class="w3-center">Ingredients:</h5>
+      <p class="w3-large"></p>
+
+<h6>2 tablespoons extra-virgin olive oil (30ml)</h6>
+<h6> 1 pound butternut squash, peeled, seeded, and cut into 1/2-inch cubes (450g; about 1/2 large
+squash)</h6>
+<h6>Kosher salt and freshly ground black pepper</h6>
+<h6>1 small shallot, finely minced (about 1 ounce; 30g)</h6>
+<h6>1 tablespoon juice from 1 lemon (15ml)(30g)</h6>
+<h6>1 pound small cupped, tubular, or ridged pasta such as orecchiette, penne, farfalle, or rotini
+(450g)(30g)</h6>
+<h6>1 ounce grated fresh Parmigiano-Reggiano cheese (30g)</h6>
+
+</p>
+<h5 class="w3-center">Directions:</h5>  	
+
+<h6>1. Heat olive oil in a large stainless steel or cast-iron skillet over high heat until very lightly
+smoking. Immediately add squash, season with salt and pepper, and cook, stirring and
+tossing occasionally, until well-browned and squash is tender, about 5 minutes. Add butter
+and shallots and continue cooking, stirring frequently, until butter is lightly browned and
+smells nutty, about 1 minute longer. Add sage and stir to combine (sage should crackle and
+let off a great aroma). Remove from heat and stir in lemon juice. Set aside.</h6>
+<h6>2. In a medium saucepan, combine pasta with enough room temperature or hot water to cover
+by about 2 inches. Season with salt. Set over high heat and bring to a boil while stirring
+frequently. Cook, stirring frequently, until pasta is just shy of al dente, about 2 minutes less than
+the package directions. Drain pasta, reserving a couple cups of the starchy cooking liquid.</h6>
+<h6>3. Add pasta to skillet with squash along with a splash of pasta water. Bring to a simmer over
+high heat and cook until the pasta is perfectly al dente, stirring and tossing constantly and
+adding a splash of water as needed to keep the sauce loose and shiny. Off heat, stir in
+Parmigiano-Reggiano. Adjust seasoning with salt and pepper and texture with more pasta water
+as needed. Serve immediately, topped with more cheese at the table.</h6>
+
+</p>
+    </div>
+    
+    <div class="w3-col l6 w3-padding-large">
+      <img src="http://www.seriouseats.com/recipes/assets_c/2017/02/20170206-butternut-squash-pasta-brown-butter-13-thumb-1500xauto-436362.jpg" class="w3-round w3-image " width="500" height="750">
+
+    </div>
+  </div>
+
+  <hr>
+
+<div class="w3-row w3-padding-64" id="about">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+     <img src="http://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/2/4/0/RX-FNM_030111-Weeknight-Dinners-035_s4x3.jpg.rend.hgtvcom.616.462.suffix/1498851001879.jpeg" class="w3-round w3-image " width="600" height="750">
+    </div>
+
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center">SHRIMP FRA DIAVOLO</h1><br>
+      <h5 class="w3-center">Ingredients:</h5>
+      <p class="w3-large"></p>
+
+<h6>1/2 teaspoon kosher salt, plus more as needed</h6>
+<h6> 3/4 pound large shrimp (340g), shelled and deveined, shells reserved</h6>
+<h6>Large pinch baking soda</h6>
+<h6>6 tablespoons extra-virgin olive oil (90ml), divided</h6>
+<h6>4 medium cloves garlic, thinly sliced</h6>
+<h6>1 1/2 teaspoons dried oregano
+</h6>
+<h6>1 to 2 teaspoons red chili flakes (see note)</h6>
+<h6>2 tablespoons (30ml) brandy (optional)</h6>
+<h6>1 (28-ounce; 795g) can whole peeled tomatoes and their juices, coarsely pureed or crushed by
+hand</h6>
+<h6>1/2 cup bottled clam juice (120ml)
+)</h6>
+<h6>1 pound spaghetti (450g)</h6>
+<h6>1/4 cup minced flat-leaf parsley leaves and tender stems (from 1 small bunch)</h6>
+</p>
+</ul>
+      <p class="w3-large w3-hide-medium">
+     <h5 class="w3-center">Directions:</h5>   
+
+<h6>1. Bring a large pot of salted water to a boil. In a medium bowl, toss the shrimp well with the 1/2
+teaspoon salt and the baking soda. Set aside.</h6>
+<h6>2. In a large skillet or sauté pan, heat 4 tablespoons olive oil over medium-high heat until
+shimmering, Add reserved shrimp shells and cook, stirring constantly, until they&#39;ve all turned a
+reddish color, about 4 minutes. Off the heat, remove the shells using tongs, a slotted spatula,
+and/or a slotted spoon, allowing any excess oil to drain back into skillet as you go; discard the
+shells. You should still have plenty of oil left in the skillet.</h6>
+<h6>3. Return the skillet to medium-high heat, add the shrimp, and cook, stirring and turning
+occasionally, until shrimp are just starting to brown in spots and are almost fully cooked through,
+about 3 minutes. Off the heat, transfer shrimp to a plate and set aside.</h6>
+<h6>4. Return the skillet to medium-low heat. Add garlic, oregano, and chili flakes and cook, stirring,
+until garlic is just beginning to turn golden, about 3 minutes. Add brandy, if using, and cook until
+almost fully evaporated. Add tomatoes and clam juice and bring to a simmer. Season with salt.</h6>
+<h6>5. Boil the pasta in the pot of salted water until al dente. Drain, reserving about 1 cup of the
+pasta cooking water, and add pasta to the sauce along with a splash of the pasta cooking water.
+
+Add shrimp and cook over medium-high heat, stirring, until the sauce reduces and clings to
+pasta and the shrimp are fully heated through; add more pasta water as necessary if the sauce
+becomes too dry. Season with salt, if necessary.</h6>
+
+<h6>6. Stir in parsley and remaining 2 tablespoons olive oil. Serve right away.</h6>
+
+
+    </div>
+  </div>
+  
+  <hr>
+     <h1 class="w3-center">SPAGHETTI AGLIO E OLIO</h1><br>
+  <div class="w3-row w3-padding-64" id="menu">
+    <div class="w3-col l6 w3-padding-large">
+     <h5 class="w3-center">Ingredients:</h5>
+      <p class="w3-large"></p>
+
+<h6>Kosher salt</h6>
+<h6>1 pound (450g) dried spaghetti</h6>
+<h6>1/2 cup (120ml) extra-virgin olive oil, divided</h6>
+<h6>4 medium cloves garlic, thinly sliced</h6>
+<h6>Serving suggestion: Sweetened or flavored whipped cream.Red pepper flakes, to taste (optional)</h6>
+<h6>Minced flat-leaf parsley, for serving (optional)</h6>
+</p>
+<h5 class="w3-center">Directions:</h5>    
+
+<h6>1. In a pot of salted boiling water, cook spaghetti until just shy of al dente (about 1 minute less
+than the package directs). Reserve pasta cooking water.</h6>
+<h6>2. Meanwhile, in a large skillet, combine 6 tablespoons oil and garlic. Add pinch of red pepper
+flakes, if using. Cook over medium heat until garlic is very lightly golden, about 5 minutes.
+(Adjust heat as necessary to keep it gently sizzling.)</h6>
+<h6>3. Transfer pasta to skillet along with 1/2 cup pasta water, increase heat to high, and cook,
+stirring and tossing rapidly, until a creamy, emulsified sauce forms and coats the noodles.
+Remove from heat, add remaining 2 tablespoons olive oil, and stir well to combine. Mix in
+parsley, if using, and serve right away.</h6>
+
+</p>
+    </div>
+    
+    <div class="w3-col l6 w3-padding-large">
+      <img src="http://www.seriouseats.com/recipes/assets_c/2016/02/20160219-pasta-aglio-olio-vicky-wasik-8-thumb-1500xauto-430118.jpg" class="w3-round w3-image " width="500" height="750">
+
+    </div>
+  </div>
+
+  <hr>
+
+
+
+
+<footer title="Desserts" </a></p>
+</footer>
+
+</body>
+</html>
